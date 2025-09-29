@@ -1,0 +1,22 @@
+[
+  {
+    "name": { "common": "Uzbekistan" },
+    "flags": { "svg": "https://flagcdn.com/uz.svg" }
+  },
+  {
+    "name": { "common": "Kazakhstan" },
+    "flags": { "svg": "https://flagcdn.com/kz.svg" }
+  },
+  {
+    "name": { "common": "Kyrgyzstan" },
+    "flags": { "svg": "https://flagcdn.com/kg.svg" }
+  },
+  {
+    "name": { "common": "Turkey" },
+    "flags": { "svg": "https://flagcdn.com/tr.svg" }
+  },
+  {
+    "name": { "common": "United States" },
+    "flags": { "svg": "https://flagcdn.com/us.svg" }
+  }
+]
